@@ -1,6 +1,6 @@
 # Understanding NLP Pipeline
 
-Link to medium article: [click here](https://medium.com/@chaitanya_kasaraneni/understanding-nlp-pipeline-9af8cba78a56)
+Link to medium article: [click here](https://link.medium.com/WYAXrTK9z7)
 
 ![NLP](https://github.com/chaitanyakasaraneni/nlp_pipeline/blob/master/images/nlp.jpeg)
 <p align="center">Natural Language Processing Wordcloud (Source: Wootric)</p>
