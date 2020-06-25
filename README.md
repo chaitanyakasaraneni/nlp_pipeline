@@ -32,6 +32,8 @@ This repository contains examples for stages in Natural Language Processing (NLP
 
 - `bow_tfidf_example.ipynb`: This file contains examples on Bag of Words (BOW) model and Term Frequency — Inverse Document Frequency (TF-IDF) calculation.
 
+- `beautiful_soup_example.ipynb`: This file contains example showing usage of BeautifulSoup library on crawling data from real estate agents section of realtor.com website
+
 *Note: Hope you gained some knowledge reading this article. Please remember that this article is just an overview and my understanding of NLP pipeline that I read from various online sources.*
 
 *Note: Examples on more stages coming soon*
